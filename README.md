@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 This is an onBoarding Screen app.
 
-<img src ="screenshots/screen1.png" width = "200" height = "350">  <img src ="screenshots/screen2.png" width = "200" height = "350"> <img src ="screenshots/screen2.png" width = "200" height = "350"> 
+<img src ="screenshots/screen1.png" width = "200" height = "350">  <img src ="screenshots/screen2.png" width = "200" height = "350"> <img src ="screenshots/screen3.png" width = "200" height = "350"> 
 
 
 ## Library used:
